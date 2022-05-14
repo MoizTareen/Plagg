@@ -1,7 +1,7 @@
 # Plagg
 
 
-Everything you need to know about Plagg,Including Support,website,ToS and Privacy Policy .! 
+Everything you need to know about Plagg,Including Support,website,ToS and Privacy Policy.
 
   
 
