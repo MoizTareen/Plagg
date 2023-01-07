@@ -22,6 +22,10 @@
 <br>
   •Attach Files
   <br>
+  •Create Commands
+  <br>
+  •Use Application Commands
+  <br>
   •Use External Stickers
 <h3>Got concerns or Queries?</h3>
 <p>If you have any concerns or queries relating our privacy policy., You can contact Meiju#0589 directy on our Support Server!</p>
