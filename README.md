@@ -10,6 +10,6 @@ Everything you need to know about Plagg,Including Support,website,ToS and Privac
   
 
  > 💬 [Support Server](https://discord.gg/dEVMMBJrgZ)\
- > 🌐 [website](https://plagg.tk)\
+ > 🌐 [website](https://plagg.meiju.gq/)\
  > ❤ [Plagg's Repository](https://github.com/MoizTareen/Plagg)\
  > 🧐 [Privacy Policy and ToS](./Policy.md)
